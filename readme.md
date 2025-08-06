@@ -19,7 +19,7 @@ Este proyecto contiene una colección de pruebas API usando Postman para la API 
 - Eliminar producto (`DELETE /products/:id`)
 
 📄 Diseños de los CP disponibles en:
-[https://drive.google.com/drive/folders/1C00yOygsRSXHbVRoUy82-2ilcbkadbgH?usp=drive_link](https://docs.google.com/spreadsheets/d/19KLqF0OO33P0eaj9-o_aBiCn96XVMxIXPBrGoUVF7vE/edit?gid=0#gid=0)
+https://docs.google.com/spreadsheets/d/14_mix5PI5AwI25oh7e5Ec1dmpWA8sKArtYVzxJPopnY/edit?gid=0#gid=0
 
 ---
 
