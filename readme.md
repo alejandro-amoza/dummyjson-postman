@@ -18,6 +18,9 @@ Este proyecto contiene una colección de pruebas API usando Postman para la API 
 - Modificación parcial (`PATCH /products/:id`)
 - Eliminar producto (`DELETE /products/:id`)
 
+📄 Diseños de los CP disponibles en:
+[https://drive.google.com/drive/folders/1C00yOygsRSXHbVRoUy82-2ilcbkadbgH?usp=drive_link](https://docs.google.com/spreadsheets/d/19KLqF0OO33P0eaj9-o_aBiCn96XVMxIXPBrGoUVF7vE/edit?gid=0#gid=0)
+
 ---
 
 ## 🔐 Autenticación
